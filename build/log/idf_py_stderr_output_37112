@@ -1,0 +1,2 @@
+Command: ninja full
+ninja: error: unknown target 'full', did you mean 'all'?

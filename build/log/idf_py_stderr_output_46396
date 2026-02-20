@@ -1,0 +1,2 @@
+Command: ninja all
+ninja: error: 'C:/Users/Ajay Sikarwar/OneDrive - Ceinsys Tech Ltd/Desktop/esp32_OTA/ESP32_OTA/main/Mqtt.c', needed by 'esp-idf/main/CMakeFiles/__idf_main.dir/Mqtt.c.obj', missing and no known rule to make it
